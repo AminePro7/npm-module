@@ -1,22 +1,22 @@
 {
   "name": "p",
   "version": "1.0.0",
+  "description": "amine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AminePro7/my-npm-module.git"
+    "url": "git+https://github.com/AminePro7/npm-module.git"
   },
+  "keywords": [
+    "azerty123"
+  ],
   "author": "amine",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AminePro7/my-npm-module/issues"
+    "url": "https://github.com/AminePro7/npm-module/issues"
   },
-  "homepage": "https://github.com/AminePro7/my-npm-module#readme",
-  "keywords": [
-    "hello"
-  ],
-  "description": "hello world amine"
+  "homepage": "https://github.com/AminePro7/npm-module#readme"
 }
