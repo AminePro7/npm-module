@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/AminePro7/my-npm-module.git"
   },
-  "author": "",
+  "author": "amine",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AminePro7/my-npm-module/issues"
@@ -18,5 +18,5 @@
   "keywords": [
     "hello"
   ],
-  "description": ""
+  "description": "hello world amine"
 }
